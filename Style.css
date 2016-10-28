@@ -1,7 +1,31 @@
 body {
-    font-family: serif; transition: all 2s;
-    background:url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTUnrf0jCZ6TVB83eDfQp27vYZIA4G_ZN7DrLOsxPf38j_9rfLPw)
+    font-family: serif; 
+    transition: all 2s;
+    background:url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTUnrf0jCZ6TVB83eDfQp27vYZIA4G_ZN7DrLOsxPf38j_9rfLPw);
+    }
+h1{
+    color: black; 
+    text-shadow:0.1em 0.1em 0.15em red;
+    text-decoration: underline;
+    font-size:60px;
+    text-align:right;
+
+   
 }
-h1, h2 { color:coral; font-size: 50px ;backface-visibility:visible ; border-style:double; }
-h3 { color:darkorchid; background-color:chartreuse ; font-family:inherit ; font-size: 30px}ggff
-p {font-family:cursive;}
+h2 { 
+    color:coral; font-size: 50px;line-height: 100px; text-align: center; 
+        }
+h3 { 
+    color:darkorchid; background-color:chartreuse ; font-family:inherit ; font-size:30px;
+        }
+p {
+    font-family: cursive;   
+}
+.requirements {
+   background-image: url("https://media.giphy.com/media/9fbYYzdf6BbQA/giphy.gif") ;
+    ; 
+    
+}
+.contentinfo {
+    text-align: center;
+}
