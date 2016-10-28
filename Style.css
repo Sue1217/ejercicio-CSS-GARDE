@@ -12,6 +12,8 @@ h1{
     font-size:60px;
     text-align:center;
     transition: all 2s ;
+    background: url(http://67.media.tumblr.com/5abd9aa9b89a303f868895ebb059a749/tumblr_nltc5hTgVm1rx5rfmo1_1280.gif);
+
     }
 h2 { 
     color:crimson; font-size: 50px;line-height: 100px; text-align: center; 
@@ -28,11 +30,10 @@ h3 { background:url(http://66.media.tumblr.com/tumblr_lyou6uul881qe0qpeo1_250.gi
     }
 p   {
     font-family: cursive;   
-    }
+}
 .participation {
-    background: url(http://67.media.tumblr.com/5abd9aa9b89a303f868895ebb059a749/tumblr_nltc5hTgVm1rx5rfmo1_1280.gif);
     background-repeat: no-repeat;
-    background-size:cover ;    
+    background-size:cover ;
     }
 .contentinfo {
     text-align: center;
@@ -43,5 +44,8 @@ p   {
     background-color:oldlace;
     opacity: 1.5;
     width: 300px;
-    height: 250%;
+    height: 93%;
+}
+.intro,summary,preamble, main supporting {
+    padding-left: 27%;
 }
